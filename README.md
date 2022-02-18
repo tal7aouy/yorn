@@ -19,7 +19,7 @@ make
 
 ```bash
 cd bin
-./yorn <your-domain.com> <number-of-requests>
+./yorn <your-domain> <number-of-requests>
 ```
 
 🤓 The output will be something like this:
